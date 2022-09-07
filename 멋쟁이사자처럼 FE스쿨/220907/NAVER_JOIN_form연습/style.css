@@ -1,0 +1,107 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 15px;
+    text-align: left;
+    padding: 25px;
+    background-color: #F5F6F7;
+    height: 1072px;
+    width:922px;
+}
+
+.wrap{
+    min-width: 250px;
+    width: 100%;
+    display: block;
+}
+
+header{
+    display: block;
+    padding-top: 59px;
+    padding-bottom: 25px;
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+h2{
+    font-size: 0px;
+}
+
+.h_logo {
+        display: block;
+        margin: 0 auto;
+        width: 240px;
+        height: 44px;
+        background-image: url(https://static.nid.naver.com/images/ui/join/m_naver_logo_20191126.png);
+        background-repeat: no-repeat;
+        background-position: 0 0;
+        background-size: 240px auto;
+        color: transparent;
+        font-size: 0;
+}
+
+.blind {
+    position: absolute;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    margin: -1px;
+    width: 1px;
+    height: 1px
+}
+
+section{
+    display:inline-block;
+    text-align: left;  
+}
+
+section p {
+        font-size: 12px;
+}
+
+
+
+textarea{
+    color: gray;
+}
+
+nav{
+    text-align: center;
+}
+
+nav a{
+    text-decoration: none;
+    color: black;
+    padding: 30px;
+}
+
+
+img{
+display: inline-block;
+width: 50px;
+}
+
+fieldset{
+    border:none;
+}
+
+
+footer{
+    text-align: center;
+}
+
+small{
+    padding: 10px;
+}
+
+.footer-text{
+    margin: 20px;
+}
+
