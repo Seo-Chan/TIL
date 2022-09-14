@@ -6,7 +6,8 @@ HTML 태그의 위치를 지정해주는 속성. position 속성을 이용해 �
 ## position 종류
 
 ### position: static
-    기본적으로 모든 태그들은 따로 position 속성값을 주지 않았다면 static 값을 가진다. 즉 html에 쓴 태그 순으로 정상적인 흐름(normal flow)에 따라 위치가 지정된다.
+    기본적으로 모든 태그들은 따로 position 속성값을 주지 않았다면 static 값을 가진다.
+    즉 html에 쓴 태그 순으로 정상적인 흐름(normal flow)에 따라 위치가 지정된다.
 
 ### position : relative
     원래 자신이 있어야 하는 위치에 `상대적`인 속성 (자신이 기존에 있던 위치에서 이동하는 것)
